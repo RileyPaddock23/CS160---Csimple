@@ -1,0 +1,9 @@
+# Build artifacts
+csimple
+*.o
+
+# Generated files (from flex, bison, gawk)
+lexer.cpp
+parser.cpp
+parser.hpp
+parser.output
